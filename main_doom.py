@@ -1,10 +1,3 @@
-'''
-This code is based on:
-https://github.com/hunkim/DeepRL-Agents
-
-CF https://github.com/golbin/TensorFlow-Tutorials
-https://github.com/dennybritz/reinforcement-learning/blob/master/DQN/dqn.py
-'''
 # import random
 # from collections import deque
 # import gym
@@ -104,7 +97,7 @@ if __name__ == "__main__":
 
 
         env.close()
-        gym.upload('/home/lwc/PycharmProjects/git/wc_DL/Doom_1dimension_action/gym-test-1',
-                   api_key='sk_lhnVA8tnREi9rHs1IbOOA')
+        # gym.upload('/home/lwc/PycharmProjects/git/wc_DL/Doom_1dimension_action/gym-test-1',
+        #            api_key='sk_lhnVA8tnREi9rHs1IbOOA')
     plt.show()
 
